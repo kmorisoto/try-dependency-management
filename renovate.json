@@ -1,5 +1,13 @@
 {
   "extends": [
     "config:base"
+  ],
+   "packageRules": [
+    {
+      "groupName": "org.jetbrains.kotlin",
+      "packagePatterns": [
+        "^org.jetbrains.kotlin"
+      ]
+    }
   ]
 }
