@@ -21,7 +21,8 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
 
-    implementation("org.seasar.mayaa:mayaa:1.1.32")
+    implementation("net.sourceforge.nekohtml:nekohtml:1.9.22")
+
 
 
 
